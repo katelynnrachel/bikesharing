@@ -3,6 +3,8 @@
 ## Overview
 The purpose of this analysis was to create visuals using Tableau Pubic based on New York citibike data, to potentially recreate the same bike sharing program in Des Moines. I had initially created visuals to determine the overall number of trips, find the proportion of short term customers to annual subscribers, find the peak riding hours in August, and answer various other questions. For the challenge, I converted the "tripduration" column of our data to a datetime data type in jupyter notebook, and then created visuals that showed the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week, and the number of bike trips for each type of user and gender for each day of the week. 
 
+[link to dashboard](https://public.tableau.com/app/profile/katelynn.youssefyeh/viz/bcs14-challenge/TopStartingLocations "link to dashboard")
+
 ## Results
 ![Gender Breakdown](https://user-images.githubusercontent.com/107594280/206331169-43965dc8-142f-456c-be49-e66560d9a459.png)
 - From our initial analysis, we can see the breakdown of the count of different genders using the bike program. From this, we can see that the majority of users are males, and therefore are an important target demographic to market to.
